@@ -1,6 +1,9 @@
 # AMB82
 For Test
 
+目標:能夠成功定時將照片傳回雲端並進入待機模式，達到節能
+目前進度:能成功將照片傳回雲端，還無法進入待機模式
+
 GoogleDrive_LineNotify.ino 是改範例程式的MotionDetectGoogleLineNotify 只有把物體偵測的部分拿掉 還有加上每1分鐘拍照上傳
 
 StandbyMode.ino 是範例程式
